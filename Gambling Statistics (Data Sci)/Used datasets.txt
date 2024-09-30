@@ -1,0 +1,25 @@
+https://www.kaggle.com/datasets/mrframm/40000-coin-tosses
+https://www.kaggle.com/datasets/kingabzpro/gambling-behavior-bustabit
+https://www.reddit.com/r/Genshin_Impact/comments/jvmnac/5_character_banner_pity_analysis_true_rate_of_324/
+
+Reformat / Delete unwanted columns
+Checking if all information fits the criteria
+Splitting the dataset as the information presented is not usable
+remove rows with empty cells in the "Toss #" and "Start" columns
+Split / Merge the data
+
+Reformat / Delete unwanted columns
+Checking if all information fits the criteria
+function to add value labels
+calculate the percentage the house earned
+
+Check if website is accessible
+Checking if all information fits the criteria
+Iterate through the rows in the table
+Find the first td element in the row (the date / gross profit) and extract the text
+Convert the periods data to datetime objects
+
+Reformat / Delete unwanted columns
+Checking if all information fits the criteria
+Extract the necessary columns from the dataframe
+Interpolate the data to create a smooth curve
